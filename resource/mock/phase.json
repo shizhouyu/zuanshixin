@@ -13,24 +13,25 @@
 		"titleList": [{
 			"title": "卷首语",
 			"list": [{
-				"title": "零距离沟通，从这里开启",
+				"title": "创刊词 零距离沟通 从这里开始",
+				"src": [],
 				"content": [{
-					"title": "内容标题,如果内容有标题则写title，并且标题时在此内容第一段落，若没有则不写title，如下",
-					"paragraph": "2016年，公司从匹配战略发展、匹配管理变革、员工切身需求的角度出发，历时4个多月的调研问卷、座谈和研讨，重新梳理了新的使命、愿景、价值观等文化体系，为公司的未来发展进一步指明了方向。文化需要通过网络流淌在公司的“血液”里，网络本身，正是目前我们欠缺的。"
+					"title": "发展战略",
+					"paragraph": "2016年，公司从匹配战略发展、匹配管理变革、员工切身需求的角度出发，历时4个多月的调研问卷、座谈和研讨，重新梳理了新的使命、愿景、价值观等文化体系，为公司的未来发展进一步指明了方向。文化需要通过网络流淌在公司的“血液”里，网络本身，正是我们欠缺的。"
 				}, {
-					"paragraph": "这两年，公司进入了人工智能时代发展的快车道，人员的规模每年都会上了一个新的台阶，从3000人到5000人，从5000人到7000人，未来还会更多优秀的同事加盟我们。如何搭建内部员工与员工、员工与管理者之间的沟通管道，同样也是我们需要破题的课题之一。"
+					"paragraph": "这两年，公司进入了人工智能时代发展的快车道，人员规模每年都会上一个新的台阶，从3000到5000人，从5000人到9000人，未来还会更多优秀的同事加盟我们。如何搭建内部员工与员工、员工与管理者之间的沟通管道，是我们需要破题的课题之一。"
 				}, {
-					"paragraph": "信息爆炸时代，我们每天获得的信息无穷大，甚至超过古代人一生中获得的信息。微信、微博、今日头条、各大门户网站让我们眼花缭乱。对于公司的信息，我们讯飞人掌握得也是支离破碎，碎片化的阅读，已经无法让我们了解公司的整体全貌。"
+					"paragraph": "信息爆炸时代，我们每天获得的信息无穷大，甚至超过古代人一生中得到的信息。微信、微博、今日头条、各大门户网站让我们眼花缭乱。对于公司的信息，我们掌握得也是支离破碎，碎片化的阅读，已经无法让我们了解公司的整体全貌。"
 				}, {
-					"paragraph": "这本《钻石心》读物，我们希望它能够承载以上三大重要责任，能够在文化传播、内部零距离沟通、权威信息发布等方面发挥重要作用。"
+					"paragraph": "这本《钻石心》读物，我们希望它能够承载以下三大重要责任，能够在文化传播、内部零距离沟通、信息权威性等方面发挥重要作用。"
 				}, {
-					"paragraph": "之所以取名《钻石心》，两个原因：一是我们的价值观是421克拉，演绎出来的就是一个代表着纯洁、坚固、不可侵犯的钻石。二是，正如刘总在很多场合所说，“创业需要一个钻石心”，钻石心是力量和精神的象征。"
+					"paragraph": "之所以取名《钻石心》，两个原因：一是我们的价值观是421克拉，演绎出来的就是一个代表着纯洁、坚固、不可侵犯的钻石。二是，正如刘总在很多场合所说，“创业需要一个钻石心”，钻石心是力量和讯飞精神的象征。"
 				}, {
-					"paragraph": "为此，我们未来将在这本充分展现公司核心文化的电子刊里，为大家带来那有着一颗“钻石心”的榜样人物和有趣故事——那些生活在我们身边各部门的人物和故事，包括每一个鲜活个体的你我他。"
+					"paragraph": "为此，我们未来将在这本充分展现公司核心文化的读物里，为大家带来那有着一颗“钻石心”的榜样人物和有趣故事——那些生活在我们身边各部门的人物和故事，包括每一个鲜活个体的你我他。"
 				}, {
-					"paragraph": "麦克卢汉在《理解媒介》中说：“报纸是一种群体的自白形式，他提供群体的参与机会。”这是属于每一个人的平台，我们只是平台的搭建者。我们也希望公司的每一个人都能贡献自己的才华，在这里积极发声、投稿、建言献策，来共同维护属于我们自己的家园天地。"
+					"paragraph": "麦克卢汉在《理解媒介》中说：“报纸是一种群体的自白形式，他提供群体的参与机会。”这是属于每一个讯飞人的平台，我们只是平台的搭建者。我们也希望公司的每一个人都能贡献自己的才华，在这里积极发声、投稿、建言献策，来共同维护属于我们自己的家园天地。"
 				}, {
-					"paragraph": "愿我们的零距离沟通，真正从这里开启。"
+					"paragraph": "愿我们的零距离沟通，从这里开启。"
 				}]
 			}]
 		}, {
@@ -184,7 +185,7 @@
 			"list": [{
 				"title": "汉维翻译机新疆行——翻译机工程样机客户调研记",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/02-1.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/02-1.jpg"
 				}],
 				"content": [{
 					"paragraph": "2016年9月16号，翻译机工程样机刚刚诞生没几天，一大早接到翻译业务线负责人马家领的一个邮件：“大家收拾一下，下午五点去新疆，我们这次带着产品原型去新疆” ，一群人便踏上不知道是第几次去新疆的征途。傍晚的机场，夕阳的余晖透过候机室的落地窗温和的洒进来，大家欢笑着聊着这次在新疆的工作计划。"
@@ -202,7 +203,7 @@
 			}, {
 				"title": "“花哥”的故事",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/02-2.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/02-2.jpg"
 				}],
 				"content": [{
 					"paragraph": "张永生诨号“花哥”。篮球鞋，牛仔裤，小油头，干净利素，走路生风。就职于智慧城市事业群市场与行销一部。"
@@ -238,7 +239,7 @@
 			"list": [{
 				"title": "外长王毅说，要把这个系统引入外交部！",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/03-1.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/03-1.jpg"
 				}],
 				"content": [{
 					"paragraph": "魅力非凡的外交部部长王毅，遇见人工智能味儿十足的“安徽智造”，竟主动表示要将它引入外交部！"
@@ -250,7 +251,7 @@
 			}, {
 				"title": "科大讯飞与中国医学科学院北京协和医学院达成战略合作",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/03-2.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/03-2.jpg"
 				}],
 				"content": [{
 					"paragraph": "4月18日，科大讯飞与中国医学科学院北京协和医学院在北京签署全面战略合作框架协议，同期，科大讯飞与中国医学科学院基础医学研究所北京协和医学院基础学院签订战略合作协议。双方宣布共建“中国医学科学院-科大讯飞医学人工智能研究中心”并进行研究中心揭牌仪式，共同推动人工智能在基础医疗研究和临床方面的应用。"
@@ -260,7 +261,7 @@
 			}, {
 				"title": "“AI教育”公益计划首站在西藏启动",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/03-3.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/03-3.jpg"
 				}],
 				"content": [{
 					"paragraph": "4月13日，“汇爱萨迦”——科大讯飞爱心捐教仪式在西藏萨迦县中学举行，这也是科大讯飞“AI教育”公益计划的第一站。"
@@ -274,7 +275,7 @@
 			}, {
 				"title": " 记伯克利AI实验室春季交流会",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/03-4.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/03-4.jpg"
 				}],
 				"content": [{
 					"paragraph": "今年3月份， Berkeley（美国伯克利市）的春季retreat（交流会）在美丽的酒乡Napa（纳帕）附近的Sonoma（索诺马）举行，研究院魏思院长代表讯飞参加此次交流会。"
@@ -286,7 +287,7 @@
 			}, {
 				"title": "科大讯飞与深圳中学共建创新体验中心 ",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/03-5.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/03-5.jpg"
 				}],
 				"content": [{
 					"paragraph": "3月2日，科大讯飞与深圳中学签署合作协议，双方宣布在深圳中学建立“深圳中学—科大讯飞创新体验中心”。深圳市副市长吴以环、深圳市教育局局长张基宏、科大讯飞董事长刘庆峰、深圳中学校长朱华伟等相关领导出席签约挂牌仪式。刘庆峰董事长作为深圳中学2017年第一期“深中大讲堂”嘉宾，给现场师生带去了一场关于人工智能的精彩演讲。"
@@ -296,7 +297,7 @@
 			}, {
 				"title": "讯飞智元盛大亮相2017中国国际智能建筑展",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/03-6.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/03-6.jpg"
 				}],
 				"content": [{
 					"title": "内容标题,如果内容有标题则写title，并且标题时在此内容第一段落，若没有则不写title，如下",
@@ -310,7 +311,7 @@
 			"list": [{
 				"title": "科大讯飞放大招了：购房贷款贴息由你拿！",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/04-1.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/04-1.jpg"
 				}],
 				"content": [{
 					"title": "内容标题,如果内容有标题则写title，并且标题时在此内容第一段落，若没有则不写title，如下",
@@ -336,7 +337,7 @@
 			}, {
 				"title": "综合服务中心，你的生活小助手",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/04-2.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/04-2.jpg"
 				}],
 				"content": [{
 					"paragraph": "讯飞的小伙伴都知道，在A2栋大楼一层有一个综合服务中心，顾名思义是给我们讯飞的员工提供服务的，比如说“打印复印、设施维修、工资卡发放…”，不过综合服务中心究竟能提供哪些服务，相信小伙伴都比较困惑~"
@@ -377,7 +378,7 @@
 			"list": [{
 				"title": "听产品经理说cloudrive2.0智能行车系统中的体验思维",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/05-1.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/05-1.jpg"
 				}],
 				"content": [{
 					"title": "内容标题,如果内容有标题则写title，并且标题时在此内容第一段落，若没有则不写title，如下",
@@ -403,7 +404,7 @@
 			}, {
 				"title": "爱让我们在一起 “AI教育”公益行西藏萨迦站侧记",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/05-2.jpg"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/05-2.jpg"
 				}],
 				"content": [{
 					"title": "内容标题,如果内容有标题则写title，并且标题时在此内容第一段落，若没有则不写title，如下",
@@ -445,7 +446,7 @@
 			}, {
 				"title": "筑梦远航  助力成长————智慧城市BG“新人入模”计划优秀学员侧记",
 				"src": [{
-					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/05-3"
+					"src": "https://raw.githubusercontent.com/shizhouyu/zuanshixin/master/resource/img/01/05-3.jpg"
 				}],
 				"content": [{
 					"paragraph": "去年夏天，硕士毕业后，怀揣着对未来的憧憬，我正式加入了讯飞智慧城市事业部，开始在工程质量管理部的工作。时光荏苒，转眼间，入职已一年有余。经过这一年的工作和学习，个人身份从一个初来乍到的职场小白成长为一名充满激情、敢于拼搏的讯飞人。"
